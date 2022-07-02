@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Twitter API app</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">INSERT_CONSUMER_KEY_HERE</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">INSERT_SECRET_KEY_HERE</string>
+</resources>
