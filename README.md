@@ -8,4 +8,4 @@ In order to publish tweets using the TwitterAPI, API keys must first be generate
 
 # Disclaimer
 
-There is no guarantee that this application will work perfectly, it has been published in the spirit of benefiting the GitHub community.
+There is no guarantee that this application will work perfectly. It has been published in the spirit of benefiting the GitHub community.
